@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.bc516149.chunk.css",
-    "main.js": "/Portfolio/static/js/main.568bf6da.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.568bf6da.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.e7b59922.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.e7b59922.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.9998ee02.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.9998ee02.js.map",
     "static/js/2.26f9574f.chunk.js": "/Portfolio/static/js/2.26f9574f.chunk.js",
@@ -10,6 +10,8 @@
     "index.html": "/Portfolio/index.html",
     "static/css/main.bc516149.chunk.css.map": "/Portfolio/static/css/main.bc516149.chunk.css.map",
     "static/js/2.26f9574f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.26f9574f.chunk.js.LICENSE.txt",
+    "static/media/DRC.f0a5fdfa.jpg": "/Portfolio/static/media/DRC.f0a5fdfa.jpg",
+    "static/media/SPARK.c18b318e.jpg": "/Portfolio/static/media/SPARK.c18b318e.jpg",
     "static/media/ankita.8d647c5d.jpg": "/Portfolio/static/media/ankita.8d647c5d.jpg",
     "static/media/design.8ecb3043.svg": "/Portfolio/static/media/design.8ecb3043.svg",
     "static/media/App.scss": "/Portfolio/static/media/dots-bg.aa8289c5.svg",
@@ -24,6 +26,6 @@
     "static/js/runtime-main.9998ee02.js",
     "static/js/2.26f9574f.chunk.js",
     "static/css/main.bc516149.chunk.css",
-    "static/js/main.568bf6da.chunk.js"
+    "static/js/main.e7b59922.chunk.js"
   ]
 }
