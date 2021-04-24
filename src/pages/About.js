@@ -22,7 +22,7 @@ function About(){
                     text={'Skilled in developing websites using React and Bootstrap.'}
                     />
                     <ServicesSection image={intelligence} title={'Deep Learning '} 
-                    text={'Computer Vision & MMerging state-of-the-art research with industry.'}
+                    text={'Computer Vision & Merging state-of-the-art research with industry.'}
                     />
                     <ServicesSection image={gamedev} title={'Data Science'} 
                     text={'Love exploring the field with some interesting projects on hand.'}
