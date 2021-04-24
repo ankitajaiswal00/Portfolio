@@ -30,7 +30,7 @@ function Navbar() {
                     </li>
                     <li className="nav-item">
                         <NavLink to="/projects" exact activeClassName="active">
-                            My Works
+                            Portfolio
                         </NavLink>
                     </li>
                 </ul>
