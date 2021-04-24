@@ -24,7 +24,7 @@ function About(){
                     <ServicesSection image={intelligence} title={'Deep Learning '} 
                     text={'Computer Vision & MMerging state-of-the-art research with industry.'}
                     />
-                    <ServicesSection image={gamedev} title={'Data Sciences'} 
+                    <ServicesSection image={gamedev} title={'Data Science'} 
                     text={'Love exploring the field with some interesting projects on hand.'}
                     />
                 </div>
