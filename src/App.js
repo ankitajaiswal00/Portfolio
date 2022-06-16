@@ -31,7 +31,6 @@ function App() {
               <Route path="/" exact>
                 <>
                 <Home />
-                 
                 </>
               </Route>
               <Route path="/about" exact>
