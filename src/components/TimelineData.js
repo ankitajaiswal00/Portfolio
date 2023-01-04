@@ -50,6 +50,19 @@ const TimelineData = [
                 'https://news.samsung.com/in/samsung-innovation-award-recognizes-cutting-edge-innovations-from-students-at-iit-ism-dhanbad',
             text: 'News Article'
         }
+    },
+    {
+        text: 'Strategic Cloud Engineer. Google',
+        date: 'Apr22- July22',
+        category: {
+            tag: 'Internship',
+            color: '#018f69'
+        },
+        // link: {
+        //     url:
+        //         'https://github.com/JaZz-9/Try-First',
+        //     text: 'View on GithHub'
+        // }
     }
 
 ];
